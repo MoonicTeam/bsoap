@@ -1,0 +1,5 @@
+/target
+.idea
+
+# kde adds this if u customise ur folder's colour or something
+.directory
